@@ -2,4 +2,4 @@ This repository contains my presentation for the Kaggle Competitions Group of th
 
 The idea of the presentation is to review the competition and the techniques used by the winners in order to advance understanding of these topics.
 
-The video of my talk can be found here.
+The video of my talk can be found <a href="https://www.youtube.com/watch?v=YJFnBPhTi0Y">here</a>.
